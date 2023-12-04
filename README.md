@@ -1,4 +1,5 @@
-### Hi there 👋
+Hello!👋 My name is Diego Olavarria. I am from Universidad Tecnologica Metropolitana taking CS.
+Currently studying SQL, Javascript, Python and GitHub.
 
 <!--
 **Dolavarria/Dolavarria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
