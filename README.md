@@ -1,5 +1,8 @@
-Hello!👋 My name is Diego Olavarria. I am from Universidad Tecnologica Metropolitana taking CS.
-Currently studying SQL, Javascript, Python and GitHub.
+Hello!👋
+My name is Diego Olavarria. I am currently taking CS.
+Self learning SQL.
+Doing Fullstack Python Bootcamp.
+
 
 <!--
 **Dolavarria/Dolavarria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
