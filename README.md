@@ -1,6 +1,8 @@
 Hello!👋
-My name is Diego Olavarria. I am currently taking CS.
+My name is Diego Olavarria. I am currently taking Computer Science (4/6 years).
+
 Self learning SQL.
+
 Doing Fullstack Python Bootcamp.
 
 
