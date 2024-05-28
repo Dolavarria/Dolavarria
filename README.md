@@ -1,5 +1,5 @@
 Hello!👋
-My name is Diego Olavarria. Currently taking Computer Science (4/6 years).
+My name is Diego Olavarria.Computer Engineering student (4/6 years).
 
 Self learning SQL, Python, Django
 
