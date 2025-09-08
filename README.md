@@ -27,10 +27,6 @@ Aprendiendo por mi cuenta **SQL · Python · Django**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-## 📌 Proyectos destacados
-- _Nombre del proyecto 1_ — breve descripción (tecnologías). [Repo](#) • [Demo](#)  
-- _Nombre del proyecto 2_ — breve descripción (tecnologías). [Repo](#) • [Demo](#)
-
 ## 📈 Estadísticas
 <div align="center">
 
