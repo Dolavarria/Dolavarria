@@ -29,11 +29,6 @@ Aprendiendo por mi cuenta **SQL · Python · Django**
 
 
 
-## 📈 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DOLAVARRIA&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" height="160" alt="Stats de Diego" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOLAVARRIA&theme=gruvbox&hide_border=false" height="160" alt="Racha de contribuciones" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOLAVARRIA&theme=gruvbox&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=500" alt="Lenguajes más usados" />
